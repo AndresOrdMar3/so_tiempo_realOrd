@@ -1,0 +1,52 @@
+    1  apt-get update
+    2  vim
+    3  makefile
+    4  help
+    5  q
+    6  exit
+    7  objcopy -j abc -j de -o binary b.out b.bin
+    8  make clear
+    9  clear
+   10  cd /documents
+   11  help
+   12  cd /home
+   13  cd /documents/SOTR
+   14  cd /Documents
+   15  cd /Documents/
+   16  cd /SOTR
+   17  mkdir /Documents/SOTR/Pq
+   18  mkdir P1
+   19  -l
+   20  -ls
+   21  help
+   22  cd /P1
+   23  cd /Documents/SOTR/P1
+   24  cd /home
+   25  cd /home/root
+   26  cd /home/Documents
+   27  cd help
+   28  help cd
+   29  cd home/Documents
+   30  vim
+   31  a1a2a3.bin
+   32  clear
+   33  ls
+   34  cd /Desktop
+   35  cd Desktop
+   36  ls
+   37  cd
+   38  ls
+   39  cd Documents
+   40  ls
+   41  cd SOTR
+   42  ls
+   43  cd P1
+   44  ls
+   45  clear
+   46  Que puto
+   47  clear
+   48  file a1a2a3.out
+   49  ok
+   50  ./a1a2a3.out
+   51  vale verga
+   52  history>queweva.txt
