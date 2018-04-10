@@ -42,11 +42,8 @@
    42  ls
    43  cd P1
    44  ls
-   45  clear
-   46  Que puto
    47  clear
    48  file a1a2a3.out
    49  ok
-   50  ./a1a2a3.out
-   51  vale verga
+   50  ./a1a2a3
    52  history>queweva.txt
