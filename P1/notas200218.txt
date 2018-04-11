@@ -1,0 +1,38 @@
+    1  history>prueba.txt
+    2  cat ajklsdfhakls.txt
+    3  history>prueba.txt #este comando guarda el historial
+    4  cd Notas-Tarea/
+    5  echo asd.txt
+    6  file asd.txt
+    7  cat asd.txt
+    8  touch tarea.txt
+    9  vim touch.txt
+   10  cd ..
+   11  cd Notas-Tarea/
+   12  vim tarea.txt 
+   13  vim tarea.txt :!
+   14  vim tarea.txt &
+   15  gvim tarea.txt &
+   16  vim al.s
+   17  gcc al.s
+   18  gcc -c al.s
+   19  vim al.o
+   20  as --32 al.s -o al.o
+   21  vim al.s
+   22  as --32 al.s -o al.o
+   23  vim al.o
+   24  as --32 a1.s -o a1.o
+   25  vim a2.s
+   26  as --32 a2.s -o a2.o
+   27  ls -hgotr
+   28  ls -hgotr #Muestra la hora de creacion de los archivos contenidos en el directorio actual
+   29  as --32 a2.s -o a2.o #genera el archivo tipo objeto en lenguaje ensamblador 
+   30  objdump -D a1.s
+   31  gedit #abre editor
+   32  objdump -D/a1.s
+   33  objdump -D /a1.s
+   34  objdump -D /a1.o
+   35  objdump -D a1.o
+   36  objdump -D a1.o #muestra el contenido del archivo objeto
+   37  cd ..
+   38  history>notas200218.txt

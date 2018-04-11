@@ -1,0 +1,92 @@
+    1  pwd
+    2  whoami
+    3  who
+    4  ls -l
+    5  ls -l..
+    6  vim
+    7  host
+    8  host www.ipn.mx
+    9  vim
+   10  cat hola.c
+   11  gcc
+   12  gcc hola.c
+   13  ls -lh
+   14  file
+   15  file hola.c 
+   16  file a.out
+   17  ./a.out
+   18  vim hola.c
+   19  gcc hola.c
+   20  ./a.out
+   21  vim hola.c
+   22  gcc hola.c
+   23  ./a.out
+   24  script 130218.txt
+   25  ./a.out
+   26  history>ajkldalsdkj.txt
+   27  pwd
+   28  whoami
+   29  who
+   30  ls -l
+   31  vim
+   32  cat hola.c
+   33  gcc hola.c 
+   34  ./a.out
+   35  history>notas1.txt
+   36  cd Desktop/
+   37  cd SOTR/
+   38  gcc hola.c
+   39  vim
+   40  vim hola.c
+   41  restart -h now
+   42  restar -h now
+   43  shutdown -h now
+   44  vim
+   45  cat puto
+   46  cd Desktop/
+   47  cd SOTR/
+   48  history>notashoy.txt
+   49  apt -get install tree
+   50  apt get install tree
+   51  apt -get tree
+   52  apt get tree
+   53  help get
+   54  cd
+   55  apt get tree
+   56  apt get install tree
+   57  apt-get instal tree
+   58  apt-get install tree
+   59  apt-get update
+   60  vim
+   61  gcc holasprintf.c
+   62  vim holasprintf.c 
+   63  gcc holasprintf.c
+   64  ./holasp
+   65  ./a.out
+   66  echo $?
+   67  gcc holasprintf.c ansans
+   68  gcc holasprintf.c>hola
+   69  ./hola
+   70  gcc holasprintf.c -o holasp
+   71  ./holasp
+   72  d
+   73  history>notas2.txt
+   74  cd Desktop/SOTR/
+   75  make holasprintf
+   76  file holasprintf
+   77  ./holasprintf 
+   78  echo $
+   79  vim funcion.v
+   80  vim funcion.c
+   81  gcc .c funcion.c 
+   82  gcc -c funcion.c 
+   83  vim funcion.c 
+   84  vim Makefile
+   85  vim funcion.c 
+   86  gcc -c funcion.c 
+   87  make
+   88  vim Makefile 
+   89  make
+   90  ./executable
+   91  wfpiehgf
+   92  history>notas2.txt

@@ -1,0 +1,48 @@
+    1  pwd
+    2  whoami
+    3  who
+    4  ls -l
+    5  ls -l..
+    6  vim
+    7  host
+    8  host www.ipn.mx
+    9  vim
+   10  cat hola.c
+   11  gcc
+   12  gcc hola.c
+   13  ls -lh
+   14  file
+   15  file hola.c 
+   16  file a.out
+   17  ./a.out
+   18  vim hola.c
+   19  gcc hola.c
+   20  ./a.out
+   21  vim hola.c
+   22  gcc hola.c
+   23  ./a.out
+   24  script 130218.txt
+   25  ./a.out
+   26  history>ajkldalsdkj.txt
+   27  pwd
+   28  whoami
+   29  who
+   30  ls -l
+   31  vim
+   32  cat hola.c
+   33  gcc hola.c 
+   34  ./a.out
+   35  history>notas1.txt
+   36  cd Desktop/
+   37  cd SOTR/
+   38  gcc hola.c
+   39  vim
+   40  vim hola.c
+   41  restart -h now
+   42  restar -h now
+   43  shutdown -h now
+   44  vim
+   45  cat puto
+   46  cd Desktop/
+   47  cd SOTR/
+   48  history>notashoy.txt
