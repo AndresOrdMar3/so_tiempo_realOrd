@@ -1,3 +1,6 @@
 Para aplicar el parche de tiempo real al kernel para Raspbian_Stretch_Lite
 se siguieron los pasos del tutorial:
 http://www.frank-durr.de/?p=203
+
+Se generó un programa de control de posición para un motor a pasos en Python 2.7.
+Se compiló para ejecutarse en raspbian.
