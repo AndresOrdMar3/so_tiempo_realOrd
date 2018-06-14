@@ -1,0 +1,2 @@
+Para ejecutar la máquina virtual en la Live USB con Kali Linux se generaron
+los archivos para construir el kernel y emularlo.
