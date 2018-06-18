@@ -4,3 +4,10 @@ http://www.frank-durr.de/?p=203
 
 Se generó un programa de control de posición para un motor a pasos en Python 2.7.
 Se compiló para ejecutarse en raspbian.
+
+Las pruebas de latencia se realizaron siguiendo los pasos detallados en "Latency Evaluation" del tutorial en https://github.com/koppi/mk/blob/master/Machinekit-RT-Preempt-RPI.md obteniendo:
+Main: 12 Act: 13 Aug: 14 Max: 62
+
+Resultados:
+https://www.youtube.com/watch?v=4aQo6g6nTjA
+https://www.youtube.com/watch?v=5267CYtcyIs
